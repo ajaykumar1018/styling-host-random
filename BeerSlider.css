@@ -101,7 +101,7 @@
 }
 .beer-reveal[data-beer-label]:after,.beer-slider[data-beer-label]:after{
     background:hsla(0, 0%, 0%, 40%);
-    border-radius:1rem;
+    border-radius: 16px;
     content:attr(data-beer-label);
     line-height:1;
     padding:.5rem;
